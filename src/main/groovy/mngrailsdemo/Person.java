@@ -1,9 +1,6 @@
 package mngrailsdemo;
 
-import io.micronaut.data.annotation.MappedEntity;
-
-import javax.persistence.GeneratedValue;
-import javax.persistence.Id;
+import io.micronaut.data.annotation.*;
 
 @MappedEntity
 public class Person {

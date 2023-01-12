@@ -2,6 +2,7 @@ package mngrailsdemo
 
 import org.springframework.beans.factory.annotation.Autowired
 
+
 class BootStrap {
 
     @Autowired
